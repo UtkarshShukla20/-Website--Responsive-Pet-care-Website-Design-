@@ -9,19 +9,13 @@
 
 1) SCREENSHOTS =>
 Below are several screenshots that have been uploaded for your convenience, providing a visual representation to enhance your understanding and user experience. 
+![Screenshot 2024-05-23 034251](https://github.com/UtkarshShukla20/-Website--Responsive-Pet-care-Website-Design-/assets/170364058/02c7316d-a7b2-4263-8343-7fba47634923)
+![Screenshot 2024-05-23 040703](https://github.com/UtkarshShukla20/-Website--Responsive-Pet-care-Website-Design-/assets/170364058/9f1ffea1-5380-4eb0-a66f-afcdcdd74f7e)
+![Screenshot 2024-05-23 040547](https://github.com/UtkarshShukla20/-Website--Responsive-Pet-care-Website-Design-/assets/170364058/06c4356f-ffbf-4146-9ae3-4f3a5423fe28)
+![Screenshot 2024-05-23 025021](https://github.com/UtkarshShukla20/-Website--Responsive-Pet-care-Website-Design-/assets/170364058/443e12bd-a748-4675-a87b-c364b6795ab0)
+![Screenshot 2024-05-23 040847](https://github.com/UtkarshShukla20/-Website--Responsive-Pet-care-Website-Design-/assets/170364058/6e1397cb-96c0-4a4c-9e8e-ae3ceb8cce8c)
+![Screenshot 2024-05-23 040647](https://github.com/UtkarshShukla20/-Website--Responsive-Pet-care-Website-Design-/assets/170364058/690575a2-e975-455a-a429-71a874dd7aad)
 
-![Screenshot 2024-05-23 034251](https://github.com/UtkarshShukla20/Website-Responsive-Pet-care-Website-/assets/170364058/8d870102-f698-43bd-ba43-011163175e96)
-
-![Screenshot 2024-05-23 025021](https://github.com/UtkarshShukla20/Website-Responsive-Pet-care-Website-/assets/170364058/7650fbd0-a61a-4831-bd5e-8b44b4cb8dc8)
-
-![Screenshot 2024-05-23 040547](https://github.com/UtkarshShukla20/Website-Responsive-Pet-care-Website-/assets/170364058/40c1263c-efa9-4b7f-9657-a2a9e3b42957)
-
-![Screenshot 2024-05-23 040847](https://github.com/UtkarshShukla20/Website-Responsive-Pet-care-Website-/assets/170364058/61098d26-0b14-49b9-a6f9-5e8963dce642)
-
-![Screenshot 2024-05-23 040647](https://github.com/UtkarshShukla20/Website-Responsive-Pet-care-Website-/assets/170364058/52984183-06ae-4e81-ad0f-db1b77104e8a)
-
-
-![Screenshot 2024-05-23 040721](https://github.com/UtkarshShukla20/Website-Responsive-Pet-care-Website-/assets/170364058/2487846f-6406-4d6e-b52c-0f7caa447941)
 
 
 
