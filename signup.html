@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Sign Up</title>
+  <link href="https://fonts.googleapis.com/css?family=Handlee" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Handlee', cursive;
+      background-color: #f2f2f2;
+    }
+    .container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    .form {
+      background-color: #fff;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+      text-align: center;
+    }
+    .form input[type="text"],
+    .form input[type="password"] {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 15px;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+    }
+    .form a.btn {
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: #007bff;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 4px;
+      transition: background-color 0.3s ease;
+    }
+    .form a.btn:hover {
+      background-color: #0056b3;
+    }
+    .success-message {
+      color: green;
+      font-weight: bold;
+      margin-top: 10px;
+    }
+    .back-button {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      background-color: #ccc;
+      color: #fff;
+      padding: 5px 10px;
+      border-radius: 4px;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="form">
+      <a href="index.html" class="back-button">Back to Home</a>
+      <form action="#">
+        <input type="text" placeholder="Enter your email">
+        <input type="password" placeholder="Create a password">
+        <input type="password" placeholder="Confirm your password">
+        <a href="#" class="btn btn-lg btn-secondary mt-3 mt-md-4 px-4" onclick="showSuccessMessage()">Sign Up</a>
+        <p class="success-message" id="successMessage" style="display: none;">Thank you! You have signed up successfully.</p>
+      </form>
+    </div>
+  </div>
+
+  <script>
+    function showSuccessMessage() {
+      var successMessage = document.getElementById('successMessage');
+      successMessage.style.display = 'block';
+    }
+  </script>
+</body>
+</html>
