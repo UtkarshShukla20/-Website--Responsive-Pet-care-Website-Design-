@@ -29,19 +29,19 @@ Below are several screenshots that have been uploaded for your convenience, prov
 
 2)SHORT DOCUMENTRY AND INFORMATION ABOUT THE WEBSITE
 
-Introduction
+Introduction =>
 Welcome to Pawfect Buddy! We are dedicated to providing the best care for your pets, ensuring they live happy and healthy lives. Our mission is to be the ultimate resource for pet owners, offering a wide range of services, products, and expert advice to meet all your pet’s needs.
 
 At Pawfect Buddy, we believe in creating a world where every pet is cared for with love and expertise. Our vision is to be the go-to destination for pet care, fostering a community of pet lovers who trust us with their furry friends.
 
-About Us
+About Us=>
 History of Pawfect Buddy
 Pawfect Buddy was founded in [Year] by a group of passionate pet lovers who recognized the need for a comprehensive pet care service that prioritizes both the physical and emotional well-being of pets. Our journey began with a small storefront offering basic grooming services. Over time, we expanded our offerings to include veterinary care, training, and a wide range of pet products. Our growth has been fueled by our commitment to quality and the trust we’ve built with our customers.
 
-Our Team
+Our Team=>
 Our team consists of dedicated professionals who bring a wealth of experience and knowledge to Pawfect Buddy. From our veterinarians and groomers to our customer service representatives, each team member is passionate about providing the best care for your pets. Our veterinarians are licensed and have years of experience in treating various health issues, ensuring your pets receive top-notch medical care. Our groomers are trained to handle pets with care and patience, making the grooming experience pleasant for all pets. Our trainers use the latest positive reinforcement techniques to help your pets learn and grow in a supportive environment.
 
-Values and Ethics
+Values and Ethics=>
 At Pawfect Buddy, we adhere to the highest standards of ethics and integrity. We believe in treating every pet with compassion and respect. Our core values include:
 
 Compassion: We treat every pet as if they were our own.
@@ -52,7 +52,7 @@ Pet Care Services
 Overview of Services
 At Pawfect Buddy, we offer a wide range of pet care services to meet the diverse needs of our customers. Whether you need grooming, veterinary care, or training, we have the expertise to provide the best care for your pets.
 
-Grooming
+Grooming=>
 Our grooming services include:
 
 Baths: Using high-quality, pet-safe shampoos and conditioners to keep your pet’s coat clean and healthy.
