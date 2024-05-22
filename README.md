@@ -11,9 +11,11 @@
 Below are several screenshots that have been uploaded for your convenience, providing a visual representation to enhance your understanding and user experience. 
 
 ![Screenshot 2024-05-23 034251](https://github.com/UtkarshShukla20/Website-Responsive-Pet-care-Website-/assets/170364058/8d870102-f698-43bd-ba43-011163175e96)
+
 ![Screenshot 2024-05-23 025021](https://github.com/UtkarshShukla20/Website-Responsive-Pet-care-Website-/assets/170364058/7650fbd0-a61a-4831-bd5e-8b44b4cb8dc8)
 
 ![Screenshot 2024-05-23 040547](https://github.com/UtkarshShukla20/Website-Responsive-Pet-care-Website-/assets/170364058/40c1263c-efa9-4b7f-9657-a2a9e3b42957)
+
 ![Screenshot 2024-05-23 040847](https://github.com/UtkarshShukla20/Website-Responsive-Pet-care-Website-/assets/170364058/61098d26-0b14-49b9-a6f9-5e8963dce642)
 
 ![Screenshot 2024-05-23 040647](https://github.com/UtkarshShukla20/Website-Responsive-Pet-care-Website-/assets/170364058/52984183-06ae-4e81-ad0f-db1b77104e8a)
