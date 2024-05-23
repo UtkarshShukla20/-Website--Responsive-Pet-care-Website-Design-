@@ -35,8 +35,6 @@ Welcome to Pawfect Buddy! We are dedicated to providing the best care for your p
 At Pawfect Buddy, we believe in creating a world where every pet is cared for with love and expertise. Our vision is to be the go-to destination for pet care, fostering a community of pet lovers who trust us with their furry friends.
 
 About Us=>
-History of Pawfect Buddy
-Pawfect Buddy was founded in [Year] by a group of passionate pet lovers who recognized the need for a comprehensive pet care service that prioritizes both the physical and emotional well-being of pets. Our journey began with a small storefront offering basic grooming services. Over time, we expanded our offerings to include veterinary care, training, and a wide range of pet products. Our growth has been fueled by our commitment to quality and the trust we’ve built with our customers.
 
 Our Team=>
 Our team consists of dedicated professionals who bring a wealth of experience and knowledge to Pawfect Buddy. From our veterinarians and groomers to our customer service representatives, each team member is passionate about providing the best care for your pets. Our veterinarians are licensed and have years of experience in treating various health issues, ensuring your pets receive top-notch medical care. Our groomers are trained to handle pets with care and patience, making the grooming experience pleasant for all pets. Our trainers use the latest positive reinforcement techniques to help your pets learn and grow in a supportive environment.
